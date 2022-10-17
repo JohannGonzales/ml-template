@@ -1,9 +1,12 @@
+# Personal
+.vscode
+__pycache__
+*.code-workspace
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-.vscode
-__pycache__
 
 # C extensions
 *.so
